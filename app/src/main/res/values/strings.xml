@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Block8</string>
+    <string name="click">Click here</string>
+    <string name="secAct">Second Activity</string>
+</resources>
